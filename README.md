@@ -46,3 +46,8 @@ It was built as part of a technical challenge to demonstrate advanced animation 
 git clone https://github.com/marcosSanchez-dev/gsap-animations.git
 cd gsap-animations
 ```
+
+### Open locally
+
+Just open index.html in your browser.
+No build process required (pure HTML/CSS/JS project).
